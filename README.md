@@ -5,7 +5,7 @@
 ### about contact
 [![Facebook Badge](https://img.shields.io/badge/-faceBook-3247ba?style=flat&labelColor=white&logo=facebook&logoColor=3247ba&link=https://www.facebook.com/liberty.vhk)](https://www.facebook.com/liberty.vhk)
 [![Mail Badge](https://img.shields.io/badge/-hoang%20ky-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vohoangky147@gmail.com)
-
+[![heroku Badge](https://img.shields.io/badge/-heroku%20App-673ab7?style=flat&labelColor=white&logo=heroku&logoColor=673ab7)](https://hoangky.herokuapp.com/about)
 ### Top technologies
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
