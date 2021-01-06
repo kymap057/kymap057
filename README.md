@@ -1,5 +1,5 @@
 ## Hi everyone, i'm Hoang Ky 👋
-##### i'm Hoang Ky a web deverloper. I'm learning about web development technologies, especially **nodejs**
+#### i'm Hoang Ky a web deverloper. I'm learning about web development technologies, especially **nodejs**
 - Now, I'm a fourth year student 👨‍🎓
 - I Spend most of time coding my projects 🕰️
 ### about contact
@@ -28,6 +28,6 @@
 <br />
 
 #### github stats
-![Hoang Ky's github stats](https://github-readme-stats.vercel.app/api?username=kymap057&count_private=true&theme=light&hide=contribs,prs)
+![Hoang Ky's github stats](https://github-readme-stats.vercel.app/api?username=kymap057&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 
