@@ -1,4 +1,4 @@
-### Hi everyone, i'm Hoang Ky 👋
+## Hi everyone, i'm Hoang Ky 👋
 ##### i'm Hoang Ky a web deverloper. I'm learning about web development technologies, especially **nodejs**
 - Now, I'm a fourth year student 👨‍🎓
 - I Spend most of time coding my projects 🕰️
