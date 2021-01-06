@@ -2,18 +2,18 @@
 ##### i'm Hoang Ky a web deverloper. I'm learning about web development technologies, especially **nodejs**
 - Now, I'm a fourth year student 👨‍🎓
 - I Spend most of time coding my projects 🕰️
-#### about contact
+### about contact
 [![Facebook Badge](https://img.shields.io/badge/-faceBook-3247ba?style=flat&labelColor=white&logo=facebook&logoColor=3247ba&link=https://www.facebook.com/liberty.vhk)](https://www.facebook.com/liberty.vhk)
 [![Mail Badge](https://img.shields.io/badge/-hoang%20ky-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vohoangky147@gmail.com)
 
-#### Top technologies
+### Top technologies
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![PHP Badge](https://img.shields.io/badge/-PHP-4F5D95?style=for-the-badge&labelColor=black&logo=php&logoColor=4F5D95)](#)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-e34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=e34c26)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-2196f3?style=for-the-badge&labelColor=black&logo=css3&logoColor=2196f3)](#)
-#### Tutorials
+### Tutorials
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
@@ -35,9 +35,7 @@
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-#### Github Stats
 
 ![Hoang Ky's github stats](https://github-readme-stats.vercel.app/api?username=kymap057&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-</details>
 
