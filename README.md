@@ -28,6 +28,6 @@
 <br />
 
 #### github stats
-![Hoang Ky's github stats](https://github-readme-stats.vercel.app/api?username=kymap057&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Hoang Ky's github stats](https://github-readme-stats.vercel.app/api?username=kymap057&count_private=true&theme=light&hide=contribs,prs)
 
 
