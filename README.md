@@ -31,4 +31,7 @@
 ### github stats
 ![Hoang Ky's github stats](https://github-readme-stats.vercel.app/api?username=kymap057&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/kymap057/count.svg" />
+</p>
